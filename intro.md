@@ -7,3 +7,5 @@ Legends spoke of the treasure for many years, but no one had ever found it. Some
 With a backpack full of supplies and a heart full of adventure, Alex stood at the edge of the jungle. The thick trees swayed in the wind, and distant animal sounds filled the air. Holding the map tightly, Alex knew that this journey would not be easy.
 
 **what should Alex do next?**
+
+- [Explore the Dark Cave](dark-cave.md)
