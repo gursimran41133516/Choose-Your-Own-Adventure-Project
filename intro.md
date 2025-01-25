@@ -4,7 +4,7 @@ Alex was a curious explorer who loved discovering new places. One day, while sea
 
 Legends spoke of the treasure for many years, but no one had ever found it. Some people believed it was just a story, while others thought it was too dangerous to search for. Alex, however, felt excited and determined to uncover the mystery.
 
-With a backpack full of supplies and a heart full of adventure, Alex stood at the edge of the jungle. The thick trees swayed in the wind, and distant animal sounds filled the air. Holding the map tightly, Alex knew that this journey would not be easy.
+With a backpack full of supplies and a heart full of adventure, Alex stood at the edge of the jungle. The thick trees swayed in the wind, and distant animal sounds filled the air. Holding the map tightly, Alex knew that this journey would not be easy. Would it lead to fortune or danger?
 
 **what should Alex do next?**
 
@@ -14,3 +14,4 @@ With a backpack full of supplies and a heart full of adventure, Alex stood at th
 
 [Move Ahead](MoveAhead.md)
  
+[Setup Camp and Plan](CampPlan.md)
