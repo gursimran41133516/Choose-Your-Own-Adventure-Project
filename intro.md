@@ -8,4 +8,8 @@ With a backpack full of supplies and a heart full of adventure, Alex stood at th
 
 **what should Alex do next?**
 
-- [Explore the Dark Cave](dark-cave.md)
+[Explore the Dark Cave](dark-cave.md)
+
+
+[Move Ahead](MoveAhead.md)
+ 
