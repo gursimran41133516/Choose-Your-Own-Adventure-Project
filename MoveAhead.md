@@ -1,2 +1,6 @@
 Alex was a curious explorer who loved discovering new places. One day, while searching through old books in the town library, Alex found something unusual—a dusty, crumpled map hidden between the pages. The map showed the way to a mysterious forgotten island, far beyond the known seas, where a legendary treasure was said to be hidden.
-Legends spoke of the treasure for many years, but no one had ever returned to confirm its existence. Some believed it was just a myth, while others thought the journey was too dangerous. But Alex, filled with excitement and a thirst for adventure
+Legends spoke of the treasure for many years, but no one had ever returned to confirm its existence. Some believed it was just a myth, while others thought the journey was too dangerous. But Alex, filled with excitement and a thirst for adventure, knew that this was the moment to prove the legend true.
+As Alex studied the map closely, their heart raced with anticipation. The island was marked with strange symbols—spirals, arrows, and what seemed to be an ancient script that no one had seen in centuries. Among the markings, a large **skull-shaped rock** was highlighted, indicating it as a key location.
+Determined to follow the clues, Alex gathered supplies, booked passage on an old cargo ship, and set sail toward the uncharted waters. The journey ahead would be long and filled with uncertainties, but the thought of discovering the treasure made it all worthwhile.
+
+[Set Sail for the Forgotten Island](island.md)

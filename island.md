@@ -1,0 +1,3 @@
+The salty sea breeze filled Alex's lungs as the ship cut through the endless waves. The sun glowed brightly overhead, and the rhythmic rocking of the ship was both calming and exciting. Days passed, and the map was Alex's constant companion, with every detail memorized carefully.
+As the island came into view on the horizon, its jagged peaks and thick mist gave it an eerie appearance. The crew whispered tales of ghost ships and lost explorers who had never returned. Despite their warnings, Alex felt ready to face whatever mysteries the island held.
+Suddenly, dark clouds began to gather, and the wind picked up speed. A storm was brewing, and the ship started rocking dangerously. The captain shouted orders as the crew scrambled to secure the sails.
